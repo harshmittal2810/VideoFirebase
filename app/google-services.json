@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "203473905610",
+    "firebase_url": "https://demoapplication-fbb44-45456.firebaseio.com",
+    "project_id": "demoapplication-fbb44",
+    "storage_bucket": "demoapplication-fbb44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203473905610:android:a7483ba34045f2172a1133",
+        "android_client_info": {
+          "package_name": "com.example.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZYSPL__Dcb_TrSAr8QLnvaKyowU9CEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203473905610:android:d599a12ef2e3ed3e2a1133",
+        "android_client_info": {
+          "package_name": "com.harsh.clevertapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203473905610-416kubg5unspca9fqkf12vutt27rrsqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.clevertapapplication",
+            "certificate_hash": "de967976cc6b816f893b9881ba42674fb8203f93"
+          }
+        },
+        {
+          "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZYSPL__Dcb_TrSAr8QLnvaKyowU9CEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203473905610:android:168dc269430316092a1133",
+        "android_client_info": {
+          "package_name": "com.harsh.videofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZYSPL__Dcb_TrSAr8QLnvaKyowU9CEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203473905610:android:60d6eb8df694efd9",
+        "android_client_info": {
+          "package_name": "com.web2droid.googleplacesapiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203473905610-nrkgev9hk4au2iu9mbskbn6d9gegq5bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.web2droid.googleplacesapiapp",
+            "certificate_hash": "de967976cc6b816f893b9881ba42674fb8203f93"
+          }
+        },
+        {
+          "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZYSPL__Dcb_TrSAr8QLnvaKyowU9CEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203473905610:android:9ab25c4f1c0374c42a1133",
+        "android_client_info": {
+          "package_name": "pranay.com.cameraxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZYSPL__Dcb_TrSAr8QLnvaKyowU9CEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203473905610-4e2m64ea3v2sqohjqdmf7hf5hkpitqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
